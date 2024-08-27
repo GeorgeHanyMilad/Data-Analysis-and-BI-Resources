@@ -29,3 +29,9 @@ This repository is a curated collection of Data Analysis and Business Intelligen
 ### 📌 **Top 10 Resources for Learning SQL and Database Management**
 - **Link:** [Post link](https://www.linkedin.com/posts/shrouk-adel_database-sql-mysql-activity-7116707812772052993-WrxK?utm_source=share&utm_medium=member_desktop) <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20">
 - **Description:** Explore these essential resources to enhance your skills in SQL and database management. From Arabic and English tutorials to comprehensive books, these sources cover everything from basics to advanced topics, perfect for anyone looking to master SQL and database concepts.
+
+<br>
+
+### 📌 **Essential Resources for Mastering Database with ITI and Beyond**
+- **Link:** [Post link](https://www.linkedin.com/posts/mohamed-elsaid-a4004b273_%D8%A8%D8%A7%D9%84%D9%86%D8%B3%D8%A8%D9%87-%D9%84%D8%A7%D8%AE%D9%88%D8%A7%D9%86%D8%A7-%D8%A7%D9%84%D9%8A-%D8%A8%D9%8A%D8%B0%D8%A7%D9%83%D8%B1%D9%88%D8%A7-%F0%9D%97%97%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%AF%F0%9D%97%AE-activity-7226201046325334016-V5HC?utm_source=share&utm_medium=member_desktop) <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20">
+- **Description:** For those studying database management, especially using videos by Eng. Rami from ITI, here are valuable resources: video links, tasks, solutions, course summaries, and additional materials. Explore these to deepen your understanding and practice with interactive platforms like LeetCode and HackerRank.
