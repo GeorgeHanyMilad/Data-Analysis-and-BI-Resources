@@ -20,6 +20,12 @@ This repository is a curated collection of Data Analysis and Business Intelligen
 ### 📌 **[Handling Categorical Outliers in Data: Simplifying Rare Categories for Better Models](https://www.linkedin.com/posts/omar-gamal-hussien_%D9%87%D9%84-%D8%B9%D9%86%D8%AF%D9%89-outliers-%D9%81%D9%8A-categorical-data-%D9%81%D9%8A-activity-7234122591387451392--wBH?utm_source=share&utm_medium=member_desktop) <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20">**
 
 
+### 📌 **[A Quick Guide to Different Types of Database Keys](https://www.linkedin.com/posts/omar-gamal-hussien_%D8%A7%D9%84%D8%A3%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D9%84%D9%81%D8%A9-%D9%84%D9%85%D9%81%D8%A7%D8%AA%D9%8A%D8%AD-%D9%82%D9%88%D8%A7%D8%B9%D8%AF-%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-activity-7225584584887832576-kuqn?utm_source=share&utm_medium=member_desktop) <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20">**
+
+
+### 📌 **[Understanding SQL Order of Execution for Better Query Writing](https://www.linkedin.com/posts/omar-gamal-hussien_%D8%B3%D9%84%D8%A7%D9%85-%D8%B9%D9%84%D9%8A%D9%83%D9%85-%D9%84%D9%88-%D8%A5%D9%86%D8%AA-%D9%84%D8%B3%D8%A7-%D9%87%D8%AA%D8%A8%D8%AF%D8%A3-%D8%AA%D8%AA%D8%B9%D9%84%D9%85-sql-activity-7213257109554028546-Y9D7?utm_source=share&utm_medium=member_desktop) <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20">**
+
+
 ### 📌 **[Comprehensive Data Analysis and BI Learning Resources](https://www.linkedin.com/posts/omar-abdelbaki-7a07b7279_dataabranalysis-powerbi-excel-activity-7232904293178048512-9vwu?utm_source=share&utm_medium=member_desktop) <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20">**
 
 
