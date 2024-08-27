@@ -8,10 +8,10 @@ This repository is a curated collection of Data Analysis and Business Intelligen
 
 ## Posts and Articles 📝
 
-### 📌 **[ITI BI Track](https://mega.nz/folder/kp5RFACR#tEcE-S38Bfkjim7gBp4e9Q) <img src="https://th.bing.com/th/id/R.a72201120ba44d15f08085c87b0f4b73?rik=YgeuQ4KRBe9SIA&riu=http%3a%2f%2ffreevector.co%2fwp-content%2fuploads%2f2010%2f06%2fmega-icon.png&ehk=2A9UtC8pAJ%2b9%2f0VaQ9syp4pgX12TJK5wJEQwE05pQ%2bI%3d&risl=&pid=ImgRaw&r=0" alt="Mega" width="30" height="30">**
+### 📌 **[ITI BI Track](https://mega.nz/folder/kp5RFACR#tEcE-S38Bfkjim7gBp4e9Q) <img src="https://th.bing.com/th/id/R.a72201120ba44d15f08085c87b0f4b73?rik=YgeuQ4KRBe9SIA&riu=http%3a%2f%2ffreevector.co%2fwp-content%2fuploads%2f2010%2f06%2fmega-icon.png&ehk=2A9UtC8pAJ%2b9%2f0VaQ9syp4pgX12TJK5wJEQwE05pQ%2bI%3d&risl=&pid=ImgRaw&r=0" alt="Mega" width="20" height="20">**
 
 
-### 📌 **[Database & BI - ITI Material](https://drive.google.com/drive/folders/1uD8v_GzZISD6TacXAFoCieMIso1Uy2s-) <img src="https://th.bing.com/th/id/R.8fbb6f189fc0a75052632ddd53c3754a?rik=hWJg%2fzxa1e3Xxw&pid=ImgRaw&r=0" alt="LinkedIn" width="30" height="30">**
+### 📌 **[Database & BI - ITI Material](https://drive.google.com/drive/folders/1uD8v_GzZISD6TacXAFoCieMIso1Uy2s-) <img src="https://th.bing.com/th/id/R.8fbb6f189fc0a75052632ddd53c3754a?rik=hWJg%2fzxa1e3Xxw&pid=ImgRaw&r=0" alt="LinkedIn" width="20" height="20">**
 
 
 ### 📌 **[Essential Data Analysis Terms You Need to Know](https://www.linkedin.com/posts/mazen-mohamed11_dataanalysis-analytics-datascience-activity-7233020232670355459-RQwW?utm_source=share&utm_medium=member_desktop) <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20">**
