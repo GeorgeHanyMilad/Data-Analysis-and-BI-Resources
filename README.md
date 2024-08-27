@@ -41,3 +41,9 @@ This repository is a curated collection of Data Analysis and Business Intelligen
 ### 📌 **Essential PDF for SQL Interview Preparation**
 - **Link:** [Post link](https://www.linkedin.com/posts/omar-gamal-hussien_sql-activity-7233404995251933184-Kk8Z?utm_source=share&utm_medium=member_desktop) <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20">
 - **Description:** Prepare effectively for your SQL interview with this comprehensive PDF guide. It covers key concepts and questions that can help you excel in your interview. Access the PDF using the provided link to boost your preparation.
+
+<br>
+
+### 📌 **Comprehensive Learning Resources for Data Analysis Tools**
+- **Link:** [Post link](https://www.linkedin.com/posts/omar-gamal-hussien_%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85-%D8%B9%D9%84%D9%8A%D9%83%D9%85-%D9%84%D9%88-%D8%A7%D9%86%D8%AA-%D8%A8%D8%AA%D8%AA%D8%B9%D9%84%D9%85-data-analysis-activity-7229044160182272002-jlqk?utm_source=share&utm_medium=member_desktop) <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20">
+- **Description:** Enhance your Data Analysis skills with these curated resources. Access valuable books and videos on Statistics, Excel, PowerBI, Tableau, SQL, and Python. Use the provided links to read and watch content tailored to each tool to support your learning journey.
