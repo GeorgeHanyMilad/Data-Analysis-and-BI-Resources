@@ -33,11 +33,6 @@ This repository is a curated collection of Data Analysis and Business Intelligen
 
 <br>
 
-### 📌 **Essential PDF for SQL Interview Preparation**
-- **Link:** [Post link](https://www.linkedin.com/posts/omar-gamal-hussien_sql-activity-7233404995251933184-Kk8Z?utm_source=share&utm_medium=member_desktop) <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20">
-
-<br>
-
 ### 📌 **Comprehensive Learning Resources for Data Analysis Tools**
 - **Link:** [Post link](https://www.linkedin.com/posts/omar-gamal-hussien_%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85-%D8%B9%D9%84%D9%8A%D9%83%D9%85-%D9%84%D9%88-%D8%A7%D9%86%D8%AA-%D8%A8%D8%AA%D8%AA%D8%B9%D9%84%D9%85-data-analysis-activity-7229044160182272002-jlqk?utm_source=share&utm_medium=member_desktop) <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20">
 
