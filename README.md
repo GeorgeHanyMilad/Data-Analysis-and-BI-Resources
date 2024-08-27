@@ -17,3 +17,9 @@ This repository is a curated collection of Data Analysis and Business Intelligen
 ### 📌 **Essential Data Analysis Terms You Need to Know**
 - **Link:** [Post link](https://www.linkedin.com/posts/mazen-mohamed11_dataanalysis-analytics-datascience-activity-7233020232670355459-RQwW?utm_source=share&utm_medium=member_desktop) <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20">
 - **Description:** Whether you're a beginner or an experienced data analyst, understanding key terms like Data Cleaning, Data Visualization, ETL, Correlation, and Machine Learning is crucial for effective data analysis. Dive into these concepts to enhance your analytical skills and handle data like a pro!
+
+<br>
+
+### 📌 **Understanding the Difference Between Data Analysis and Data Analytics**
+- **Link:** [Post link](https://www.linkedin.com/posts/mazen-mohamed11_dataanalysis-analytics-datascience-activity-7233020232670355459-RQwW?utm_source=share&utm_medium=member_desktop) <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20">
+- **Description:** Data Analysis focuses on interpreting historical data to understand past events, while Data Analytics goes further by using this analysis to predict future trends and optimize outcomes. Recognizing this distinction is crucial for applying the right techniques and strategies in data-driven decision-making.
