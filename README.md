@@ -23,3 +23,9 @@ This repository is a curated collection of Data Analysis and Business Intelligen
 ### 📌 **Comprehensive Data Analysis and BI Learning Resources**
 - **Link:** [Post link](https://www.linkedin.com/posts/omar-abdelbaki-7a07b7279_dataabranalysis-powerbi-excel-activity-7232904293178048512-9vwu?utm_source=share&utm_medium=member_desktop) <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20">
 - **Description:** This post provides an extensive collection of resources to master Data Analysis and Business Intelligence (BI), including Excel, Power BI, SQL, Tableau, Python, and more. It covers everything from beginner to advanced levels, along with essential tips for progressing in Machine Learning, Big Data, and job hunting in tech.
+
+<br>
+
+### 📌 **Top 10 Resources for Learning SQL and Database Management**
+- **Link:** [Post link](https://www.linkedin.com/posts/shrouk-adel_database-sql-mysql-activity-7116707812772052993-WrxK?utm_source=share&utm_medium=member_desktop) <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20">
+- **Description:** Explore these essential resources to enhance your skills in SQL and database management. From Arabic and English tutorials to comprehensive books, these sources cover everything from basics to advanced topics, perfect for anyone looking to master SQL and database concepts.
