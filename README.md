@@ -9,7 +9,8 @@ This repository is a curated collection of Data Analysis and Business Intelligen
 ## Posts and Articles 📝
 
 ### 📌 **Comprehensive Data Analysis and BI Learning Resources**
-- **Link:** [Post link](https://www.linkedin.com/posts/omar-abdelbaki-7a07b7279_dataabranalysis-powerbi-excel-activity-7232904293178048512-9vwu?utm_source=share&utm_medium=member_desktop) <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20">
+- **Link:** [Post link](<a href="https://www.linkedin.com/posts/omar-abdelbaki-7a07b7279_dataabranalysis-powerbi-excel-activity-7232904293178048512-9vwu?utm_source=share&utm_medium=member_desktop" target="_blank">Post link</a>
+) <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20">
 - **Description:** This post provides an extensive collection of resources to master Data Analysis and Business Intelligence (BI), including Excel, Power BI, SQL, Tableau, Python, and more. It covers everything from beginner to advanced levels, along with essential tips for progressing in Machine Learning, Big Data, and job hunting in tech.
 
 <br>
