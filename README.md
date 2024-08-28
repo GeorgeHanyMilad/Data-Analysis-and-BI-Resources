@@ -23,6 +23,9 @@ This repository is a curated collection of Data Analysis and Business Intelligen
 ### 📌 **[Handling Missing Values in Data Analysis: Techniques, Pros, and Cons](https://www.linkedin.com/posts/jana-hatem-5997792aa_%D9%81%D9%8A-%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84-data-analysis-%D8%A7%D9%84%D9%82%D9%8A%D9%85-%D8%A7%D9%84%D9%85%D9%81%D9%82%D9%88%D8%AF%D8%A9-activity-7233569933350031360-lvEo?utm_source=share&utm_medium=member_desktop) <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20">**
 
 
+### 📌 **[Handling Missing Values: KNN vs. SVD](https://www.linkedin.com/posts/beltagy-_aexaetaesaetabraetaeuaeqaeyaeyaeuabraepaesaexaepaesaep-activity-7234577570610991104-h-Kw?utm_source=share&utm_medium=member_desktop) <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20">**
+
+
 ### 📌 **[Handling Categorical Outliers in Data: Simplifying Rare Categories for Better Models](https://www.linkedin.com/posts/omar-gamal-hussien_%D9%87%D9%84-%D8%B9%D9%86%D8%AF%D9%89-outliers-%D9%81%D9%8A-categorical-data-%D9%81%D9%8A-activity-7234122591387451392--wBH?utm_source=share&utm_medium=member_desktop) <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20">**
 
 
@@ -38,19 +41,19 @@ This repository is a curated collection of Data Analysis and Business Intelligen
 ### 📌 **[Understanding SQL Order of Execution for Better Query Writing](https://www.linkedin.com/posts/omar-gamal-hussien_%D8%B3%D9%84%D8%A7%D9%85-%D8%B9%D9%84%D9%8A%D9%83%D9%85-%D9%84%D9%88-%D8%A5%D9%86%D8%AA-%D9%84%D8%B3%D8%A7-%D9%87%D8%AA%D8%A8%D8%AF%D8%A3-%D8%AA%D8%AA%D8%B9%D9%84%D9%85-sql-activity-7213257109554028546-Y9D7?utm_source=share&utm_medium=member_desktop) <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20">**
 
 
-### 📌 **[Understanding Data Lake vs. Data Warehouse with a Simple Laundry Analogy](https://www.linkedin.com/posts/omar-gamal-hussien_%D9%84%D9%83%D8%AB%D8%B1%D8%A9-%D8%A7%D9%84%D8%A3%D8%B3%D8%A6%D9%84%D8%A9-%D8%B9%D9%84%D9%89-data-lake-and-data-warehouse-activity-7225757396965445633-B6l_?utm_source=share&utm_medium=member_desktop) <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20">**
+### 📌 **[Understanding SQL Joins: INNER, OUTER, LEFT, RIGHT, and FULL](https://www.linkedin.com/posts/youssef-saeed1_join-sql-dataanalysis-activity-7234504660282220544-e68J?utm_source=share&utm_medium=member_desktop) <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20">**
 
 
 ### 📌 **[Essential Types of Reports in Data Analysis](https://www.linkedin.com/posts/mazen-mohamed11_%D8%A5%D9%8A%D9%87-%D8%A3%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D9%84%D8%AA%D9%82%D8%A7%D8%B1%D9%8A%D8%B1-%D8%A7%D9%84%D9%84%D9%8A-%D9%84%D8%A7%D8%B2%D9%85-%D8%AA%D8%B9%D8%B1%D9%81%D9%87%D8%A7-%D9%81%D9%8A-%D8%AA%D8%AD%D9%84%D9%8A%D9%84-activity-7234469838054690817-8dIC?utm_source=share&utm_medium=member_desktop) <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20">**
 
 
-### 📌 **[Data Wrangling: The Foundation of Accurate Data Analysis](https://www.linkedin.com/posts/karim-hossam-63b726245_data-wrangling-%D8%A7%D9%84%D8%A3%D8%B3%D8%A7%D8%B3-%D9%84%D9%86%D8%AC%D8%A7%D8%AD-%D8%AA%D8%AD%D9%84%D9%8A%D9%84%D9%83-%D9%84%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-activity-7234458743340466176-NiKR?utm_source=share&utm_medium=member_desktop) <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20">**
-
-
 ### 📌 **[The Importance of Deep Statistical Understanding in Data Analyst Interviews](https://www.linkedin.com/posts/mostafa-abdelghafar_dataanalytics-sql-powerbi-activity-7233091018714185729-ZM9z?utm_source=share&utm_medium=member_desktop) <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20">**
 
 
-### 📌 **[Understanding SQL Joins: INNER, OUTER, LEFT, RIGHT, and FULL](https://www.linkedin.com/posts/youssef-saeed1_join-sql-dataanalysis-activity-7234504660282220544-e68J?utm_source=share&utm_medium=member_desktop) <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20">**
+### 📌 **[Data Wrangling: The Foundation of Accurate Data Analysis](https://www.linkedin.com/posts/karim-hossam-63b726245_data-wrangling-%D8%A7%D9%84%D8%A3%D8%B3%D8%A7%D8%B3-%D9%84%D9%86%D8%AC%D8%A7%D8%AD-%D8%AA%D8%AD%D9%84%D9%8A%D9%84%D9%83-%D9%84%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-activity-7234458743340466176-NiKR?utm_source=share&utm_medium=member_desktop) <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20">**
+
+
+### 📌 **[Understanding Data Lake vs. Data Warehouse with a Simple Laundry Analogy](https://www.linkedin.com/posts/omar-gamal-hussien_%D9%84%D9%83%D8%AB%D8%B1%D8%A9-%D8%A7%D9%84%D8%A3%D8%B3%D8%A6%D9%84%D8%A9-%D8%B9%D9%84%D9%89-data-lake-and-data-warehouse-activity-7225757396965445633-B6l_?utm_source=share&utm_medium=member_desktop) <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20">**
 
 <br>
 
