@@ -8,15 +8,15 @@ This repository is a curated collection of Data Analysis and Business Intelligen
 
 # Table Of Contents 📖
 
-- [1. Data Analysis Fundamentals](#1-data-analysis-fundamentals)
-- [2. Data Cleaning and Wrangling](#2-data-cleaning-and-wrangling)
-- [3. Database Fundamentals](#3-database-fundamentals)
-- [4. SQL and Database Management](#4-sQL-and-database-management)
-- [5. Business Intelligence and Analysis](#5-business-intelligence-and-analysis)
-- [6. Advanced Topics and Interview Preparation](#6-advanced-topics-and-interview-preparation)
+- [1. Data Analysis Fundamentals 📊](#1-data-analysis-fundamentals-)
+- [2. Data Cleaning and Wrangling 🧹](#2-data-cleaning-and-wrangling-)
+- [3. Database Fundamentals 🗄️](#3-database-fundamentals-)
+- [4. SQL and Database Management 💾](#4-sQL-and-database-management-)
+- [5. Business Intelligence and Analysis 📈](#5-business-intelligence-and-analysis-)
+- [6. Advanced Topics and Interview Preparation 🎯](#6-advanced-topics-and-interview-preparation-)
 <br>
 
-## 1. Data Analysis Fundamentals
+## 1. Data Analysis Fundamentals 📊
 
 ### 📌 **[Essential Data Analysis Terms You Need to Know](https://www.linkedin.com/posts/mazen-mohamed11_dataanalysis-analytics-datascience-activity-7233020232670355459-RQwW?utm_source=share&utm_medium=member_desktop) <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20">**
 
@@ -34,7 +34,7 @@ This repository is a curated collection of Data Analysis and Business Intelligen
 
 <br>
 
-## 2. Data Cleaning and Wrangling
+## 2. Data Cleaning and Wrangling 🧹
 
 ### 📌 **[Data Wrangling: The Foundation of Accurate Data Analysis](https://www.linkedin.com/posts/karim-hossam-63b726245_data-wrangling-%D8%A7%D9%84%D8%A3%D8%B3%D8%A7%D8%B3-%D9%84%D9%86%D8%AC%D8%A7%D8%AD-%D8%AA%D8%AD%D9%84%D9%8A%D9%84%D9%83-%D9%84%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-activity-7234458743340466176-NiKR?utm_source=share&utm_medium=member_desktop) <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20">**
 
@@ -43,7 +43,7 @@ This repository is a curated collection of Data Analysis and Business Intelligen
 
 <br>
 
-## 3. Database Fundamentals
+## 3. Database Fundamentals 🗄️
 
 ### 📌 **[Understanding Data Lake vs. Data Warehouse with a Simple Laundry Analogy](https://www.linkedin.com/posts/omar-gamal-hussien_%D9%84%D9%83%D8%AB%D8%B1%D8%A9-%D8%A7%D9%84%D8%A3%D8%B3%D8%A6%D9%84%D8%A9-%D8%B9%D9%84%D9%89-data-lake-and-data-warehouse-activity-7225757396965445633-B6l_?utm_source=share&utm_medium=member_desktop) <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20">**
 
@@ -58,7 +58,7 @@ This repository is a curated collection of Data Analysis and Business Intelligen
 
 <br>
 
-## 4. SQL and Database Management
+## 4. SQL and Database Management 💾
 
 ### 📌 **[Top 10 Resources for Learning SQL and Database Management](https://www.linkedin.com/posts/shrouk-adel_database-sql-mysql-activity-7116707812772052993-WrxK?utm_source=share&utm_medium=member_desktop) <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20">**
 
@@ -76,7 +76,7 @@ This repository is a curated collection of Data Analysis and Business Intelligen
 
 <br>
 
-## 5. Business Intelligence and Analysis
+## 5. Business Intelligence and Analysis 📈
 
 ### 📌 **[ITI BI Track](https://mega.nz/folder/kp5RFACR#tEcE-S38Bfkjim7gBp4e9Q) <img src="https://th.bing.com/th/id/R.a72201120ba44d15f08085c87b0f4b73?rik=YgeuQ4KRBe9SIA&riu=http%3a%2f%2ffreevector.co%2fwp-content%2fuploads%2f2010%2f06%2fmega-icon.png&ehk=2A9UtC8pAJ%2b9%2f0VaQ9syp4pgX12TJK5wJEQwE05pQ%2bI%3d&risl=&pid=ImgRaw&r=0" alt="Mega" width="20" height="20">**
 
@@ -94,7 +94,7 @@ This repository is a curated collection of Data Analysis and Business Intelligen
 
 <br>
 
-## 6. Advanced Topics and Interview Preparation
+## 6. Advanced Topics and Interview Preparation 🎯
 
 ### 📌 **[The Importance of Deep Statistical Understanding in Data Analyst Interviews](https://www.linkedin.com/posts/mostafa-abdelghafar_dataanalytics-sql-powerbi-activity-7233091018714185729-ZM9z?utm_source=share&utm_medium=member_desktop) <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20">**
 
