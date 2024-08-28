@@ -11,7 +11,10 @@ This repository is a curated collection of Data Analysis and Business Intelligen
 ### 📌 **[ITI BI Track](https://mega.nz/folder/kp5RFACR#tEcE-S38Bfkjim7gBp4e9Q) <img src="https://th.bing.com/th/id/R.a72201120ba44d15f08085c87b0f4b73?rik=YgeuQ4KRBe9SIA&riu=http%3a%2f%2ffreevector.co%2fwp-content%2fuploads%2f2010%2f06%2fmega-icon.png&ehk=2A9UtC8pAJ%2b9%2f0VaQ9syp4pgX12TJK5wJEQwE05pQ%2bI%3d&risl=&pid=ImgRaw&r=0" alt="Mega" width="20" height="20">**
 
 
-### 📌 **[Database & BI - ITI Material](https://drive.google.com/drive/folders/1uD8v_GzZISD6TacXAFoCieMIso1Uy2s-) <img src="https://th.bing.com/th/id/R.8fbb6f189fc0a75052632ddd53c3754a?rik=hWJg%2fzxa1e3Xxw&pid=ImgRaw&r=0" alt="LinkedIn" width="20" height="20">**
+### 📌 **[Database & BI - ITI Material](https://drive.google.com/drive/folders/1uD8v_GzZISD6TacXAFoCieMIso1Uy2s-) <img src="https://th.bing.com/th/id/R.8fbb6f189fc0a75052632ddd53c3754a?rik=hWJg%2fzxa1e3Xxw&pid=ImgRaw&r=0" alt="Google Drive" width="20" height="20">**
+
+
+### 📌 **[Business Analysis Materials for Beginners](https://www.linkedin.com/posts/nada-samy-79637018b_ba-materials-activity-7230624580762038272-OrtS?utm_source=share&utm_medium=member_desktop) <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20">**
 
 
 ### 📌 **[Essential Data Analysis Terms You Need to Know](https://www.linkedin.com/posts/mazen-mohamed11_dataanalysis-analytics-datascience-activity-7233020232670355459-RQwW?utm_source=share&utm_medium=member_desktop) <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20">**
@@ -26,19 +29,28 @@ This repository is a curated collection of Data Analysis and Business Intelligen
 ### 📌 **[Handling Categorical Outliers in Data: Simplifying Rare Categories for Better Models](https://www.linkedin.com/posts/omar-gamal-hussien_%D9%87%D9%84-%D8%B9%D9%86%D8%AF%D9%89-outliers-%D9%81%D9%8A-categorical-data-%D9%81%D9%8A-activity-7234122591387451392--wBH?utm_source=share&utm_medium=member_desktop) <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20">**
 
 
+### 📌 **[Comprehensive Data Cleaning Notebook for Data Professionals](https://www.linkedin.com/posts/mina-medhat-moris_data-cleaning-with-pandas-activity-7233546018317864961-cqWt?utm_source=share&utm_medium=member_desktop) <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20">**
+
+
 ### 📌 **[A Quick Guide to Different Types of Database Keys](https://www.linkedin.com/posts/omar-gamal-hussien_%D8%A7%D9%84%D8%A3%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D9%84%D9%81%D8%A9-%D9%84%D9%85%D9%81%D8%A7%D8%AA%D9%8A%D8%AD-%D9%82%D9%88%D8%A7%D8%B9%D8%AF-%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-activity-7225584584887832576-kuqn?utm_source=share&utm_medium=member_desktop) <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20">**
 
 
-### 📌 **[Understanding SQL Order of Execution for Better Query Writing](https://www.linkedin.com/posts/omar-gamal-hussien_%D8%B3%D9%84%D8%A7%D9%85-%D8%B9%D9%84%D9%8A%D9%83%D9%85-%D9%84%D9%88-%D8%A5%D9%86%D8%AA-%D9%84%D8%B3%D8%A7-%D9%87%D8%AA%D8%A8%D8%AF%D8%A3-%D8%AA%D8%AA%D8%B9%D9%84%D9%85-sql-activity-7213257109554028546-Y9D7?utm_source=share&utm_medium=member_desktop) <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20">**
+### 📌 **[Comprehensive Database Summary](https://www.linkedin.com/posts/omarsayedcs_linkedin-activity-7227225197404160000-mB3i?utm_source=share&utm_medium=member_desktop) <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20">**
 
 
-### 📌 **[Comprehensive Data Analysis and BI Learning Resources](https://www.linkedin.com/posts/omar-abdelbaki-7a07b7279_dataabranalysis-powerbi-excel-activity-7232904293178048512-9vwu?utm_source=share&utm_medium=member_desktop) <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20">**
+### 📌 **[Essential Resources for Mastering Database with ITI and Beyond](https://www.linkedin.com/posts/mohamed-elsaid-a4004b273_%D8%A8%D8%A7%D9%84%D9%86%D8%B3%D8%A8%D9%87-%D9%84%D8%A7%D8%AE%D9%88%D8%A7%D9%86%D8%A7-%D8%A7%D9%84%D9%8A-%D8%A8%D9%8A%D8%B0%D8%A7%D9%83%D8%B1%D9%88%D8%A7-%F0%9D%97%97%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%AF%F0%9D%97%AE-activity-7226201046325334016-V5HC?utm_source=share&utm_medium=member_desktop) <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20">**
 
 
 ### 📌 **[Top 10 Resources for Learning SQL and Database Management](https://www.linkedin.com/posts/shrouk-adel_database-sql-mysql-activity-7116707812772052993-WrxK?utm_source=share&utm_medium=member_desktop) <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20">**
 
 
-### 📌 **[Essential Resources for Mastering Database with ITI and Beyond](https://www.linkedin.com/posts/mohamed-elsaid-a4004b273_%D8%A8%D8%A7%D9%84%D9%86%D8%B3%D8%A8%D9%87-%D9%84%D8%A7%D8%AE%D9%88%D8%A7%D9%86%D8%A7-%D8%A7%D9%84%D9%8A-%D8%A8%D9%8A%D8%B0%D8%A7%D9%83%D8%B1%D9%88%D8%A7-%F0%9D%97%97%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%AF%F0%9D%97%AE-activity-7226201046325334016-V5HC?utm_source=share&utm_medium=member_desktop) <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20">**
+### 📌 **[Understanding SQL Order of Execution for Better Query Writing](https://www.linkedin.com/posts/omar-gamal-hussien_%D8%B3%D9%84%D8%A7%D9%85-%D8%B9%D9%84%D9%8A%D9%83%D9%85-%D9%84%D9%88-%D8%A5%D9%86%D8%AA-%D9%84%D8%B3%D8%A7-%D9%87%D8%AA%D8%A8%D8%AF%D8%A3-%D8%AA%D8%AA%D8%B9%D9%84%D9%85-sql-activity-7213257109554028546-Y9D7?utm_source=share&utm_medium=member_desktop) <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20">**
+
+
+### 📌 **[Essential SQL Practice Resources](https://www.linkedin.com/posts/%F0%9F%87%AF%F0%9F%87%B4yousuf-muhammed%F0%9F%87%AF%F0%9F%87%B4-695339198_internship-jo4u-activity-7192857053336387584-r5gU?utm_source=share&utm_medium=member_desktop) <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20">**
+
+
+### 📌 **[Comprehensive Data Analysis and BI Learning Resources](https://www.linkedin.com/posts/omar-abdelbaki-7a07b7279_dataabranalysis-powerbi-excel-activity-7232904293178048512-9vwu?utm_source=share&utm_medium=member_desktop) <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20">**
 
 
 ### 📌 **[Comprehensive Learning Resources for Data Analysis Tools](https://www.linkedin.com/posts/omar-gamal-hussien_%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85-%D8%B9%D9%84%D9%8A%D9%83%D9%85-%D9%84%D9%88-%D8%A7%D9%86%D8%AA-%D8%A8%D8%AA%D8%AA%D8%B9%D9%84%D9%85-data-analysis-activity-7229044160182272002-jlqk?utm_source=share&utm_medium=member_desktop) <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20">**
@@ -51,6 +63,3 @@ This repository is a curated collection of Data Analysis and Business Intelligen
 
 
 ### 📌 **[Understanding Data Lake vs. Data Warehouse with a Simple Laundry Analogy](https://www.linkedin.com/posts/omar-gamal-hussien_%D9%84%D9%83%D8%AB%D8%B1%D8%A9-%D8%A7%D9%84%D8%A3%D8%B3%D8%A6%D9%84%D8%A9-%D8%B9%D9%84%D9%89-data-lake-and-data-warehouse-activity-7225757396965445633-B6l_?utm_source=share&utm_medium=member_desktop) <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20">**
-
-
-### 📌 **[Comprehensive Database Summary](https://www.linkedin.com/posts/omarsayedcs_linkedin-activity-7227225197404160000-mB3i?utm_source=share&utm_medium=member_desktop) <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20">**
