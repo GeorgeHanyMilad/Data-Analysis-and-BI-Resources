@@ -93,6 +93,9 @@ This repository is a curated collection of Data Analysis and Business Intelligen
 
 ## 6. Advanced Topics and Interview Preparation 🎯
 
+&emsp;&emsp;&emsp; **<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20"> [Maximizing Your Technical Interview: The Power of Paying Attention to Hints](https://www.linkedin.com/posts/bishoy-samir_%D9%84%D9%88-%D8%A7%D9%86%D8%AA-%D8%AF%D8%A7%D8%AE%D9%84-interview-%D9%82%D8%B1%D9%8A%D8%A8-%D9%81%D8%A7-%D8%B9%D8%A7%D9%8A%D8%B2-%D8%A7%D9%83%D9%84%D9%85%D9%83-activity-7234897357581017088-VqVI?utm_source=share&utm_medium=member_desktop)**
+
+
 &emsp;&emsp;&emsp; **<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20"> [The Importance of Deep Statistical Understanding in Data Analyst Interviews](https://www.linkedin.com/posts/mostafa-abdelghafar_dataanalytics-sql-powerbi-activity-7233091018714185729-ZM9z?utm_source=share&utm_medium=member_desktop)**
 
 
