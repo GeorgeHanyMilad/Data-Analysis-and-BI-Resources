@@ -103,3 +103,6 @@ This repository is a curated collection of Data Analysis and Business Intelligen
 
 
 &emsp;&emsp;&emsp; **<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20"> [Comprehensive Database Summary](https://www.linkedin.com/posts/omarsayedcs_linkedin-activity-7227225197404160000-mB3i?utm_source=share&utm_medium=member_desktop)**
+
+
+&emsp;&emsp;&emsp; **<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20"> [Essential Resources and Tips for ITI Scholarship Applicants](https://www.linkedin.com/posts/mohamadamgad_iti-notion-activity-7219377462873378816-BAj6?utm_source=share&utm_medium=member_desktop)**
