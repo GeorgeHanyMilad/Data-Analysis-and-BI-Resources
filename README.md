@@ -47,6 +47,9 @@ This repository is a curated collection of Data Analysis and Business Intelligen
 
 &emsp;&emsp;&emsp; **<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20"> [Comprehensive Data Cleaning Notebook for Data Professionals](https://www.linkedin.com/posts/mina-medhat-moris_data-cleaning-with-pandas-activity-7233546018317864961-cqWt?utm_source=share&utm_medium=member_desktop)**
 
+
+&emsp;&emsp;&emsp; **<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20"> [When to Apply Feature Scaling in Machine Learning Models](https://www.linkedin.com/posts/mohamed-atef-527b652a3_%D9%87%D9%88-%D8%A7%D8%B2%D8%A7%D9%8A-%D8%AA%D8%B9%D8%B1%D9%81-%D8%A7%D9%86%D9%83-%D9%84%D8%A7%D8%B2%D9%85-%D8%AA%D8%B9%D9%85%D9%84-features-scaling-activity-7235300399329476609-zhn3?utm_source=share&utm_medium=member_desktop)**
+
 <br>
 
 ## 3. Database Management & SQL 🗄️
