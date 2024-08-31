@@ -115,4 +115,7 @@ This repository is a curated collection of Data Analysis and Business Intelligen
 
 ## 7. Business Analysis 💼
 
+&emsp;&emsp;&emsp; **<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20"> [Understanding the Different Roles of Business Analysts](https://www.linkedin.com/posts/mazen-mohamed11_businessanalysis-teamwork-activity-7235556931447250944-nVf0?utm_source=share&utm_medium=member_desktop)**
+
+
 &emsp;&emsp;&emsp; **<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20"> [Business Analysis Materials for Beginners](https://www.linkedin.com/posts/nada-samy-79637018b_ba-materials-activity-7230624580762038272-OrtS?utm_source=share&utm_medium=member_desktop)**
