@@ -54,22 +54,16 @@ This repository is a curated collection of Data Analysis and Business Intelligen
 
 ## 3. Database Management & SQL 🗄️
 
-&emsp;&emsp;&emsp; **<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20"> [Understanding Data Lake vs. Data Warehouse with a Simple Laundry Analogy](https://www.linkedin.com/posts/omar-gamal-hussien_%D9%84%D9%83%D8%AB%D8%B1%D8%A9-%D8%A7%D9%84%D8%A3%D8%B3%D8%A6%D9%84%D8%A9-%D8%B9%D9%84%D9%89-data-lake-and-data-warehouse-activity-7225757396965445633-B6l_?utm_source=share&utm_medium=member_desktop)**
-
-
 &emsp;&emsp;&emsp; **<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20"> [A Quick Guide to Different Types of Database Keys](https://www.linkedin.com/posts/omar-gamal-hussien_%D8%A7%D9%84%D8%A3%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D9%84%D9%81%D8%A9-%D9%84%D9%85%D9%81%D8%A7%D8%AA%D9%8A%D8%AD-%D9%82%D9%88%D8%A7%D8%B9%D8%AF-%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-activity-7225584584887832576-kuqn?utm_source=share&utm_medium=member_desktop)**
-
-
-&emsp;&emsp;&emsp; **<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20"> [Understanding SQL Joins: INNER, OUTER, LEFT, RIGHT, and FULL](https://www.linkedin.com/posts/youssef-saeed1_join-sql-dataanalysis-activity-7234504660282220544-e68J?utm_source=share&utm_medium=member_desktop)**
 
 
 &emsp;&emsp;&emsp; **<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20"> [Understanding SQL Order of Execution for Better Query Writing](https://www.linkedin.com/posts/omar-gamal-hussien_%D8%B3%D9%84%D8%A7%D9%85-%D8%B9%D9%84%D9%8A%D9%83%D9%85-%D9%84%D9%88-%D8%A5%D9%86%D8%AA-%D9%84%D8%B3%D8%A7-%D9%87%D8%AA%D8%A8%D8%AF%D8%A3-%D8%AA%D8%AA%D8%B9%D9%84%D9%85-sql-activity-7213257109554028546-Y9D7?utm_source=share&utm_medium=member_desktop)**
 
 
-&emsp;&emsp;&emsp; **<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20"> [Top 10 Resources for Learning SQL and Database Management](https://www.linkedin.com/posts/shrouk-adel_database-sql-mysql-activity-7116707812772052993-WrxK?utm_source=share&utm_medium=member_desktop)**
+&emsp;&emsp;&emsp; **<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20"> [Understanding SQL Joins: INNER, OUTER, LEFT, RIGHT, and FULL](https://www.linkedin.com/posts/youssef-saeed1_join-sql-dataanalysis-activity-7234504660282220544-e68J?utm_source=share&utm_medium=member_desktop)**
 
 
-&emsp;&emsp;&emsp; **<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20"> [Essential SQL Practice Resources](https://www.linkedin.com/posts/%F0%9F%87%AF%F0%9F%87%B4yousuf-muhammed%F0%9F%87%AF%F0%9F%87%B4-695339198_internship-jo4u-activity-7192857053336387584-r5gU?utm_source=share&utm_medium=member_desktop)**
+&emsp;&emsp;&emsp; **<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20"> [Understanding Data Lake vs. Data Warehouse with a Simple Laundry Analogy](https://www.linkedin.com/posts/omar-gamal-hussien_%D9%84%D9%83%D8%AB%D8%B1%D8%A9-%D8%A7%D9%84%D8%A3%D8%B3%D8%A6%D9%84%D8%A9-%D8%B9%D9%84%D9%89-data-lake-and-data-warehouse-activity-7225757396965445633-B6l_?utm_source=share&utm_medium=member_desktop)**
 
 
 &emsp;&emsp;&emsp; **<img src="https://th.bing.com/th/id/R.8fbb6f189fc0a75052632ddd53c3754a?rik=hWJg%2fzxa1e3Xxw&pid=ImgRaw&r=0" alt="Google Drive" width="20" height="20"> [Database & BI - ITI Material](https://drive.google.com/drive/folders/1uD8v_GzZISD6TacXAFoCieMIso1Uy2s-)**
@@ -78,13 +72,19 @@ This repository is a curated collection of Data Analysis and Business Intelligen
 &emsp;&emsp;&emsp; **<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20"> [Comprehensive Resources for Database Learning and Practice](https://www.linkedin.com/posts/mohamed-elsaid-a4004b273_%D8%A8%D8%A7%D9%84%D9%86%D8%B3%D8%A8%D9%87-%D9%84%D8%A7%D8%AE%D9%88%D8%A7%D9%86%D8%A7-%D8%A7%D9%84%D9%8A-%D8%A8%D9%8A%D8%B0%D8%A7%D9%83%D8%B1%D9%88%D8%A7-%F0%9D%97%97%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%AF%F0%9D%97%AE-activity-7226201046325334016-V5HC?utm_source=share&utm_medium=member_desktop)**
 
 
+&emsp;&emsp;&emsp; **<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20"> [Top 10 Resources for Learning SQL and Database Management](https://www.linkedin.com/posts/shrouk-adel_database-sql-mysql-activity-7116707812772052993-WrxK?utm_source=share&utm_medium=member_desktop)**
+
+
+&emsp;&emsp;&emsp; **<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20"> [Essential SQL Practice Resources](https://www.linkedin.com/posts/%F0%9F%87%AF%F0%9F%87%B4yousuf-muhammed%F0%9F%87%AF%F0%9F%87%B4-695339198_internship-jo4u-activity-7192857053336387584-r5gU?utm_source=share&utm_medium=member_desktop)**
+
+
+&emsp;&emsp;&emsp; **<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20"> [SQL Study Resources from ITI Course (Eng. Rami)](https://www.linkedin.com/posts/mariem-abdalwahab-961511244_sql-google-drive-activity-7195849333232017409-q3nn?utm_source=share&utm_medium=member_desktop)**
+
+
 &emsp;&emsp;&emsp; **<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20"> [Summary and Solutions for ITI Database Course (Eng. Rami)](https://www.linkedin.com/posts/mohamed-elsaid-a4004b273_%D8%AD%D8%AF-%D9%85%D9%86-%D8%A7%D8%B5%D8%AF%D9%82%D8%A7%D8%A6%D9%86%D8%A7-%D8%A7%D9%84%D9%85%D9%87%D9%86%D8%AF%D8%B3%D9%8A%D9%86-%D8%A7%D9%84%D9%8A-%D9%85%D8%AA%D8%A7%D8%A8%D8%B9%D9%8A%D9%86-%D9%83%D9%88%D8%B1%D8%B3-activity-7238239806818791424-9zVc?utm_source=share&utm_medium=member_desktop)**
 
 
 &emsp;&emsp;&emsp; **<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20"> [Comprehensive Database Learning and Practice Resources](https://www.linkedin.com/posts/mohamed-elsaid-a4004b273_%D9%85-%D8%B9%D9%85%D8%B1-%D8%B2%D9%85%D9%8A%D9%84%D9%86%D8%A7-%D8%B9%D9%85%D9%84-%D8%AA%D9%84%D8%AE%D9%8A%D8%B5-%D9%84%D9%83%D9%88%D8%B1%D8%B3-%D8%A7%D9%84-database-activity-7210853918027771904-Aebj?utm_source=share&utm_medium=member_desktop)**
-
-
-&emsp;&emsp;&emsp; **<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20"> [SQL Study Resources from ITI Course (Eng. Rami)](https://www.linkedin.com/posts/mariem-abdalwahab-961511244_sql-google-drive-activity-7195849333232017409-q3nn?utm_source=share&utm_medium=member_desktop)**
 
 <br>
 
