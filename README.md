@@ -66,9 +66,6 @@ This repository is a curated collection of Data Analysis and Business Intelligen
 &emsp;&emsp;&emsp; **<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20"> [Understanding Data Lake vs. Data Warehouse with a Simple Laundry Analogy](https://www.linkedin.com/posts/omar-gamal-hussien_%D9%84%D9%83%D8%AB%D8%B1%D8%A9-%D8%A7%D9%84%D8%A3%D8%B3%D8%A6%D9%84%D8%A9-%D8%B9%D9%84%D9%89-data-lake-and-data-warehouse-activity-7225757396965445633-B6l_?utm_source=share&utm_medium=member_desktop)**
 
 
-&emsp;&emsp;&emsp; **<img src="https://th.bing.com/th/id/R.8fbb6f189fc0a75052632ddd53c3754a?rik=hWJg%2fzxa1e3Xxw&pid=ImgRaw&r=0" alt="Google Drive" width="20" height="20"> [Database & BI - ITI Material](https://drive.google.com/drive/folders/1uD8v_GzZISD6TacXAFoCieMIso1Uy2s-)**
-
-
 &emsp;&emsp;&emsp; **<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20"> [Comprehensive Resources for Database Learning and Practice](https://www.linkedin.com/posts/mohamed-elsaid-a4004b273_%D8%A8%D8%A7%D9%84%D9%86%D8%B3%D8%A8%D9%87-%D9%84%D8%A7%D8%AE%D9%88%D8%A7%D9%86%D8%A7-%D8%A7%D9%84%D9%8A-%D8%A8%D9%8A%D8%B0%D8%A7%D9%83%D8%B1%D9%88%D8%A7-%F0%9D%97%97%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%AF%F0%9D%97%AE-activity-7226201046325334016-V5HC?utm_source=share&utm_medium=member_desktop)**
 
 
@@ -113,6 +110,9 @@ This repository is a curated collection of Data Analysis and Business Intelligen
 ## 5. Business Intelligence (BI) 📈
 
 &emsp;&emsp;&emsp; **<img src="https://th.bing.com/th/id/R.a72201120ba44d15f08085c87b0f4b73?rik=YgeuQ4KRBe9SIA&riu=http%3a%2f%2ffreevector.co%2fwp-content%2fuploads%2f2010%2f06%2fmega-icon.png&ehk=2A9UtC8pAJ%2b9%2f0VaQ9syp4pgX12TJK5wJEQwE05pQ%2bI%3d&risl=&pid=ImgRaw&r=0" alt="Mega" width="20" height="20"> [ITI BI Track](https://mega.nz/folder/kp5RFACR#tEcE-S38Bfkjim7gBp4e9Q)**
+
+
+&emsp;&emsp;&emsp; **<img src="https://th.bing.com/th/id/R.8fbb6f189fc0a75052632ddd53c3754a?rik=hWJg%2fzxa1e3Xxw&pid=ImgRaw&r=0" alt="Google Drive" width="20" height="20"> [Database & BI - ITI Material](https://drive.google.com/drive/folders/1uD8v_GzZISD6TacXAFoCieMIso1Uy2s-)**
 
 <br>
 
