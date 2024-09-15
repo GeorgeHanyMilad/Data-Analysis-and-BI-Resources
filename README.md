@@ -75,7 +75,16 @@ This repository is a curated collection of Data Analysis and Business Intelligen
 &emsp;&emsp;&emsp; **<img src="https://th.bing.com/th/id/R.8fbb6f189fc0a75052632ddd53c3754a?rik=hWJg%2fzxa1e3Xxw&pid=ImgRaw&r=0" alt="Google Drive" width="20" height="20"> [Database & BI - ITI Material](https://drive.google.com/drive/folders/1uD8v_GzZISD6TacXAFoCieMIso1Uy2s-)**
 
 
-&emsp;&emsp;&emsp; **<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20"> [Comprehensive Database Summary](https://www.linkedin.com/posts/omarsayedcs_linkedin-activity-7227225197404160000-mB3i?utm_source=share&utm_medium=member_desktop)**
+&emsp;&emsp;&emsp; **<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20"> [Comprehensive Resources for Database Learning and Practice](https://www.linkedin.com/posts/mohamed-elsaid-a4004b273_%D8%A8%D8%A7%D9%84%D9%86%D8%B3%D8%A8%D9%87-%D9%84%D8%A7%D8%AE%D9%88%D8%A7%D9%86%D8%A7-%D8%A7%D9%84%D9%8A-%D8%A8%D9%8A%D8%B0%D8%A7%D9%83%D8%B1%D9%88%D8%A7-%F0%9D%97%97%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%AF%F0%9D%97%AE-activity-7226201046325334016-V5HC?utm_source=share&utm_medium=member_desktop)**
+
+
+&emsp;&emsp;&emsp; **<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20"> [Summary and Solutions for ITI Database Course (Eng. Rami)](https://www.linkedin.com/posts/mohamed-elsaid-a4004b273_%D8%AD%D8%AF-%D9%85%D9%86-%D8%A7%D8%B5%D8%AF%D9%82%D8%A7%D8%A6%D9%86%D8%A7-%D8%A7%D9%84%D9%85%D9%87%D9%86%D8%AF%D8%B3%D9%8A%D9%86-%D8%A7%D9%84%D9%8A-%D9%85%D8%AA%D8%A7%D8%A8%D8%B9%D9%8A%D9%86-%D9%83%D9%88%D8%B1%D8%B3-activity-7238239806818791424-9zVc?utm_source=share&utm_medium=member_desktop)**
+
+
+&emsp;&emsp;&emsp; **<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20"> [Comprehensive Database Learning and Practice Resources](https://www.linkedin.com/posts/mohamed-elsaid-a4004b273_%D9%85-%D8%B9%D9%85%D8%B1-%D8%B2%D9%85%D9%8A%D9%84%D9%86%D8%A7-%D8%B9%D9%85%D9%84-%D8%AA%D9%84%D8%AE%D9%8A%D8%B5-%D9%84%D9%83%D9%88%D8%B1%D8%B3-%D8%A7%D9%84-database-activity-7210853918027771904-Aebj?utm_source=share&utm_medium=member_desktop)**
+
+
+&emsp;&emsp;&emsp; **<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20"> [SQL Study Resources from ITI Course (Eng. Rami)](https://www.linkedin.com/posts/mariem-abdalwahab-961511244_sql-google-drive-activity-7195849333232017409-q3nn?utm_source=share&utm_medium=member_desktop)**
 
 <br>
 
