@@ -18,16 +18,10 @@ This repository is a curated collection of Data Analysis and Business Intelligen
 &emsp;&emsp;&emsp; **<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20"> [Understanding the Difference Between Data Analysis and Data Analytics](https://www.linkedin.com/posts/metwalley_dataanalysis-dataanalytics-datascience-activity-7228703700159008768-5CBy?utm_source=share&utm_medium=member_desktop)**
 
 
-&emsp;&emsp;&emsp; **<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20"> [Comprehensive Data Analysis and BI Learning Resources](https://www.linkedin.com/posts/omar-abdelbaki-7a07b7279_dataabranalysis-powerbi-excel-activity-7232904293178048512-9vwu?utm_source=share&utm_medium=member_desktop)**
-
-
 &emsp;&emsp;&emsp; **<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20"> [Essential Types of Reports in Data Analysis](https://www.linkedin.com/posts/mazen-mohamed11_%D8%A5%D9%8A%D9%87-%D8%A3%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D9%84%D8%AA%D9%82%D8%A7%D8%B1%D9%8A%D8%B1-%D8%A7%D9%84%D9%84%D9%8A-%D9%84%D8%A7%D8%B2%D9%85-%D8%AA%D8%B9%D8%B1%D9%81%D9%87%D8%A7-%D9%81%D9%8A-%D8%AA%D8%AD%D9%84%D9%8A%D9%84-activity-7234469838054690817-8dIC?utm_source=share&utm_medium=member_desktop)**
 
 
 &emsp;&emsp;&emsp; **<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20"> [The Importance of Deep Statistical Understanding in Data Analyst Interviews](https://www.linkedin.com/posts/mostafa-abdelghafar_dataanalytics-sql-powerbi-activity-7233091018714185729-ZM9z?utm_source=share&utm_medium=member_desktop)**
-
-
-&emsp;&emsp;&emsp; **<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20"> [Top Free Statistics Courses for Clear and Organized Learning](https://www.linkedin.com/posts/omar-gamal-hussien_%D8%A7%D9%84%D8%A5%D8%AD%D8%B5%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AF%D9%84%D8%A7%D9%84%D9%8A%D8%A9-%D8%A8%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A-inferential-activity-7232294456425627649-uKyt?utm_source=share&utm_medium=member_desktop)**
 
 <br>
 
@@ -87,8 +81,22 @@ This repository is a curated collection of Data Analysis and Business Intelligen
 
 ## 4. Learning Resources 📚
 
+&emsp;&emsp;&emsp; **<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20"> [Essential Resources and Tips for ITI Scholarship Applicants](https://www.linkedin.com/posts/mohamadamgad_iti-notion-activity-7219377462873378816-BAj6?utm_source=share&utm_medium=member_desktop)**
+
+
+&emsp;&emsp;&emsp; **<img src="https://th.bing.com/th/id/R.e790c25db5e52838040686612b1a732c?rik=uVuLX4sResGMKA&riu=http%3a%2f%2fpngimg.com%2fuploads%2ffacebook_logos%2ffacebook_logos_PNG19757.png&ehk=JL234rPBfx%2bf3tobhEVbPdNgJiWOhk251WyRwRAg940%3d&risl=&pid=ImgRaw&r=0" alt="LinkedIn" width="20" height="20"> [Comprehensive Learning Resources for Data Analysis Beginners](https://www.facebook.com/share/p/mWkvp3eoAXv43apQ/)**
+
+
+&emsp;&emsp;&emsp; **<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20"> [Essential Technical Skills for Aspiring Data Analysts](https://www.linkedin.com/posts/somnath-paul-3b41a1241_technical-skills-required-to-become-a-data-activity-7157969165117517824-Ygbn?utm_source=share&utm_medium=member_desktop)**
+
+
+&emsp;&emsp;&emsp; **<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20"> [Comprehensive Data Analysis and BI Learning Resources](https://www.linkedin.com/posts/omar-abdelbaki-7a07b7279_dataabranalysis-powerbi-excel-activity-7232904293178048512-9vwu?utm_source=share&utm_medium=member_desktop)**
+
 
 &emsp;&emsp;&emsp; **<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20"> [Comprehensive Learning Resources for Data Analysis Tools](https://www.linkedin.com/posts/omar-gamal-hussien_%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85-%D8%B9%D9%84%D9%8A%D9%83%D9%85-%D9%84%D9%88-%D8%A7%D9%86%D8%AA-%D8%A8%D8%AA%D8%AA%D8%B9%D9%84%D9%85-data-analysis-activity-7229044160182272002-jlqk?utm_source=share&utm_medium=member_desktop)**
+
+
+&emsp;&emsp;&emsp; **<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20"> [Top Free Statistics Courses for Clear and Organized Learning](https://www.linkedin.com/posts/omar-gamal-hussien_%D8%A7%D9%84%D8%A5%D8%AD%D8%B5%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AF%D9%84%D8%A7%D9%84%D9%8A%D8%A9-%D8%A8%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A-inferential-activity-7232294456425627649-uKyt?utm_source=share&utm_medium=member_desktop)**
 
 
 &emsp;&emsp;&emsp; **<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20"> [Top YouTube Channels for Learning Data Analysis](https://www.linkedin.com/posts/omar-gamal-hussien_%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85-%D8%B9%D9%84%D9%8A%D9%83%D9%85-%D8%AC%D8%A8%D8%AA%D9%84%D9%83-%D8%A7%D9%81%D8%B6%D9%84-channels-%D8%B9%D9%84%D9%89-%D9%8A%D9%88%D8%AA%D9%8A%D9%88%D8%A8-activity-7233123702110920706-W6eL?utm_source=share&utm_medium=member_desktop)**
@@ -98,12 +106,6 @@ This repository is a curated collection of Data Analysis and Business Intelligen
 
 
 &emsp;&emsp;&emsp; **<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20"> [Top Resources for Mastering Version Control with GitHub](https://www.linkedin.com/posts/omar-abdullah-741547223_%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85-%D8%B9%D9%84%D9%8A%D9%83%D9%85-%D9%88%D8%B1%D8%AD%D9%85%D9%87-%D8%A7%D9%84%D9%84%D9%87-%D9%88%D8%A8%D8%B1%D9%83%D8%A7%D8%AA%D9%87-%D8%A8%D9%85-%D8%A7%D9%86-%D8%A7%D8%BA%D9%84%D8%A8%D9%86%D8%A7-activity-7234899668122386432-fnnz?utm_source=share&utm_medium=member_desktop)**
-
-
-&emsp;&emsp;&emsp; **<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20"> [Essential Technical Skills for Aspiring Data Analysts](https://www.linkedin.com/posts/somnath-paul-3b41a1241_technical-skills-required-to-become-a-data-activity-7157969165117517824-Ygbn?utm_source=share&utm_medium=member_desktop)**
-
-
-&emsp;&emsp;&emsp; **<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20"> [Essential Resources and Tips for ITI Scholarship Applicants](https://www.linkedin.com/posts/mohamadamgad_iti-notion-activity-7219377462873378816-BAj6?utm_source=share&utm_medium=member_desktop)**
 
 <br>
 
