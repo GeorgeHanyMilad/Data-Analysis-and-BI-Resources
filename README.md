@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=00BFFF&center=true&vCenter=true&width=700&height=100&duration=7000&lines=Hello+Everyone+👋;I+hope+this+content+is+useful+to+you+❤;" />
 </h1>
 
-![image](https://github.com/GeorgeHanyMilad/Data-Analysis-and-BI-Resources/blob/master/ReadMe%20Image.gif?raw=true)
+![image](https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif)
 <br>
 
 # Data Analysis and BI Resources 📑
