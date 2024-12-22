@@ -1,12 +1,8 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=00BFFF&center=true&vCenter=true&width=700&height=100&duration=7000&lines=Hello+Everyone+👋;I+hope+this+content+is+useful+to+you+❤;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=00BFFF&center=true&vCenter=true&width=700&height=100&duration=7000&lines=Hello+Everyone+👋;I+hope+this+project+is+useful+to+you+❤;" />
 </h1>
 
-<p align="center">
-  <img src="https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif" alt="Anti Hacking GIF" width="600" />
-</p>
-
-
+![image](https://github.com/GeorgeHanyMilad/Data-Analysis-and-BI-Resources/blob/master/ReadMe%20Image.gif?raw=true)
 <br>
 
 # Data Analysis and BI Resources 📑
