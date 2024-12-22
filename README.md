@@ -2,7 +2,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=00BFFF&center=true&vCenter=true&width=700&height=100&duration=7000&lines=Hello+Everyone+👋;I+hope+this+content+is+useful+to+you+❤;" />
 </h1>
 
-![image](https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif)
+<p align="center">
+  <img src="https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif" alt="Anti Hacking GIF" />
+</p>
+
 <br>
 
 # Data Analysis and BI Resources 📑
