@@ -3,8 +3,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif" alt="Anti Hacking GIF" />
+  <img src="https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif" alt="Anti Hacking GIF" width="800" />
 </p>
+
 
 <br>
 
